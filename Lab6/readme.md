@@ -1,5 +1,5 @@
 ### Executive Summary 
-
+In Lab 6 I will be Learning about ways my brower secures itself and also learn about methods to further increase the security of my browser. I will also be using HTML to make a webpage for the HTML and CSS part of the lab!
 
 ### Internet Architecture
 
@@ -29,7 +29,12 @@ HTML editors are needed to create and modify web pages. HTML basic uses things l
 XML carries data, displays data, and XML has no predefined tags.
 
 ### Components of a URL
-
+Scheme - This tells your browser what type of address it is so the browser connects to it correctly.
+Domain- Domain is the most noticable part of a URL. It states the name that the website will be referred by
+Top-level domain - Top-level domain may give you more general information on what kind of site it is.
+Default page - A default page is loaded if you don't specify a path by only entering a domain name.
+Parameters - Parameters give critical information to the server
+Anchor - The anchor tells your browser to scroll to or load a specific part of the page.
 
 ### Conclusion
-
+I have learned a lot about online security and I am now going to further increase my browsers security. I really enjoyed making my own Web page using HTML.
