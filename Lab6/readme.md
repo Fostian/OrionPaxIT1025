@@ -12,10 +12,10 @@ TCP/IP is a network protocol that defines the details of how data is sent and re
 Layers are important in changing technology because any of the layers/tasks can be changed without affecting the other layers. Some applications that run on the application layer would be: HTTP, POP3, IMAP4, and SMTP
 
 ##### Internet Security
-
+HTTP supports the client server model by sending data from your computer accross a public internet to get to a webserver. Secure HTTP encrypts the data that is being retrieved by HTTP. This ensures all data over the internet is secured by using encryption algorithms.
 
 ##### Securing your Web Browser
-
+Unsecure web browsing can cause spyware being installed on your computer. ActiveX is used in microsft internet explorer on Microsoft Windows systems ActiveX brings quality of life to the user but may also introduce severe vulnerabilities if not properly implemented.
 
 ### Internet Programming
 
