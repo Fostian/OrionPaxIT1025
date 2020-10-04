@@ -37,4 +37,4 @@ Parameters - Parameters give critical information to the server
 Anchor - The anchor tells your browser to scroll to or load a specific part of the page.
 
 ### Conclusion
-I have learned a lot about online security and I am now going to further increase my browsers security. I really enjoyed making my own Web page using HTML.
+I have learned a lot about online security and I am now going to further increase my browsers security. I really enjoyed making my own Web page using HTML. However I did get really confused when doing the URLs and File Paths part of this Lab.
