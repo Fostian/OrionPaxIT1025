@@ -20,12 +20,16 @@ Unsecure web browsing can cause spyware being installed on your computer. Active
 ### Internet Programming
 
 ##### World Wide Web Consortium
+Tim Berners-Lee is the inventor of The World Wide Web Consortium's mission is to bring diverse stake-holders together, under a clear and effective consensus-based process to develop high-quality standards based on contributions from the W3C Members, staff, and the community at large. The web design and applications standard is important because it sets the standard for building and rendering web pages that include, HTML, CSS , SVG,  AJAX, and many more. This standard is essential for all internet applications.
 
 ##### HTML5 and CSS
+HTML editors are needed to create and modify web pages. HTML basic uses things like headings, Doctype, paragraphs, links, and images. I used all of these when I made my web page for this lab. HTML links allow users to click their war from page to page. I used an image link in my web page
 
 ##### HTML and XML
+XML carries data, displays data, and XML has no predefined tags.
 
 ### Components of a URL
+
 
 ### Conclusion
 
