@@ -1,5 +1,5 @@
 ### Executive Summary 
-
+I will be learning files/folders and read about the difference between a compressed and uncompressed folder. I will be defining and practicing object oriented programming.
 
 ### File Compression
 Zipped files (compressed files) take up less storage and they can be transferred to other computers quicker than uncompressed files. The file size of my file uncompressed is 39.8 KB (40,813 bytes). After compression the file size is 25.5 KB (26,150 bytes). SVG is generally larger than a JPEG image of the same image.
@@ -11,4 +11,4 @@ If I am going through a McDonalds drive thru than the class would be McDonalds a
 
 ### Conclusion
 
-
+I honestly had a really difficult time with this lab and I feel like I didn't fully grasp the object oriented programming part of this lab unfortunately.
